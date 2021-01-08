@@ -1,0 +1,31 @@
+[java]
+description = ""
+color = "purple"
+
+[robotics]
+description = ""
+color = "red"
+
+[ftc]
+description = ""
+color = "blue"
+
+[oop]
+description = ""
+color = "orange"
+
+[flutter]
+description = ""
+color = "blue"
+
+[app-development]
+description = ""
+color = "green"
+
+[programming]
+description = ""
+color = "grey"
+
+[dart]
+description = ""
+color = "blue"
