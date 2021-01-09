@@ -1,3 +1,5 @@
+popular = ["python", "app-development", "web-development", "backend"]
+
 [java]
 description = ""
 color = "purple"
@@ -22,6 +24,10 @@ color = "blue"
 description = ""
 color = "green"
 
+[web-development]
+description = ""
+color = "cyan"
+
 [programming]
 description = ""
 color = "grey"
@@ -29,3 +35,11 @@ color = "grey"
 [dart]
 description = ""
 color = "blue"
+
+[python]
+description = ""
+color = "yellow"
+
+[backend]
+description = ""
+color = "purple"
