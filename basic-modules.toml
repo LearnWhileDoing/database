@@ -1,11 +1,3 @@
 [dart-fundamentals]
 name = "Programming in Dart"
 tags = ["dart", "programming", "oop"]
-
-[barcode-scanner]
-name = "Flutter Barcode Scanner"
-tags = ["flutter", "app-development", "oop", "programming", "dart"]
-
-[robotics-java]
-name = "FTC Robotics Java"
-tags = ["java", "robotics", "ftc", "oop", "programming"]
