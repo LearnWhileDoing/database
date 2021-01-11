@@ -1,0 +1,40 @@
+popular:
+  - "python"
+  - "app-development"
+  - "web-development"
+  - "backend"
+
+list:
+  java:
+    description: ''
+    color: "purple"
+  robotics:
+    description: ''
+    color: "red"
+  ftc:
+    description: ''
+    color: "blue"
+  oop:
+    description: ''
+    color: "orange"
+  flutter:
+    description: ''
+    color: "blue"
+  app-development:
+    description: ''
+    color: "green"
+  web-development:
+    description: ''
+    color: "cyan"
+  programming:
+    description: ''
+    color: "grey"
+  dart:
+    description: ''
+    color: "blue"
+  python:
+    description: ''
+    color: "yellow"
+  backend:
+    description: ''
+    color: "purple"
