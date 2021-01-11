@@ -1,5 +1,7 @@
 barcode-scanner:
   name: "Flutter Barcode Scanner"
+  authors:
+    - "cole-gawin"
   tags:
     - "flutter"
     - "app-development"
@@ -9,6 +11,8 @@ barcode-scanner:
 
 robotics-java:
   name: "FTC Robotics Java"
+    authors:
+      - "cole-gawin"
   tags:
     - "java"
     - "robotics"
