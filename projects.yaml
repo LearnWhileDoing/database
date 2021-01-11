@@ -11,8 +11,8 @@ barcode-scanner:
 
 robotics-java:
   name: "FTC Robotics Java"
-    authors:
-      - "cole-gawin"
+  authors:
+    - "cole-gawin"
   tags:
     - "java"
     - "robotics"
