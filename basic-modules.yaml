@@ -1,5 +1,6 @@
 dart-fundamentals:
   name: "Programming in Dart"
+  color: "#F44336"
   tags:
     - "dart"
     - "programming"
